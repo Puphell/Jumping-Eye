@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8fa3379f82e994ea7fb347de2d8a6d, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  _devText: 'Created by:
+
+    SANSDEV'
+  _sfxText: 'SFX from:
+
+    opengameart.org'
+  _contactText: 'Contact us:
+
+    sansdevs@gmail.com'
+  _privacyPolicy: https://google.com
+  _selectedMaterial: {fileID: 2100000, guid: dda68345077d5d5478b488e52259963a, type: 2}
+  _materialList:
+  - {fileID: 2100000, guid: e433e4216d24f0e44b3631834ffd4759, type: 2}
+  - {fileID: 2100000, guid: fcbbcbeb5f81361438cc9b32e748d5ca, type: 2}
+  - {fileID: 2100000, guid: 4f43771a556de0e4a844bb4c65015735, type: 2}
+  - {fileID: 2100000, guid: 2c159562ad4a30e40a3ffb4e936e77e0, type: 2}
+  - {fileID: 2100000, guid: dda68345077d5d5478b488e52259963a, type: 2}
+  - {fileID: 2100000, guid: d400690ccf7713640961d9954b89a915, type: 2}
+  - {fileID: 2100000, guid: 78f3d4995bc38a44199fb0be1ab6d670, type: 2}
